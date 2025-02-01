@@ -21,19 +21,19 @@
 5. Implement changelog activity
 6. Run HTML project to emulator devices without the physical device.
 7. Build a community inside the app, where people can share projects.
-8. Implement Github and Google Login
-9. Color Pallete
+8. Github and Google Login
+9. XML Viewer
 10. AI [Deepseek] inside the application 
 11. Built-in in web browser for searching
 12. Improve error annotation for HTML,CSS, and JS
-13. Implement built-in color picker
-14. Implement auto save without any error
-15. Implement a treeview file manager [Optional]
-16. Implement customization of profile
+13. Built-in color picker
+14. Auto save without any error
+15. Treeview file manager [Optional]
+16. Customization of profile
 17. Android library downloader [Dx and D8]
 18. Tab layout for switching file 
-19. Implement sort projects
-20. Implement project sharing outside the app
+19. Sort projects
+20. Project sharing outside the app
 ---
 
 # Contact
