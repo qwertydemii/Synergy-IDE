@@ -9,13 +9,15 @@
 
 **Accomplished**:
 - [x] Built-in Javascript libraries for exploring [Online]
-- [x] Support for multiple languages (Java, Ruby, PHP, JavaScript, etc.)
 - [x] Export project to zip file
 - [x] Pretty Print
+- [x] Online multi-language compiler (HTML, Java, Python, C#, C, C++, GoLang, and NodeJS) [BETA]
+- [x] Expanded language support (80 Languages)
+- [x] Tree view file management 
+- [x] Tab layout for switching file
+- [x] Sort projects (Name, Time)
 
 **To be Accomplished**:
-1. Multi-language compiler
-2. Expanded language support (Java, C++, Python, etc.)
 3. Create APK
 4. Finish the profile activity
 5. Implement changelog activity
@@ -28,12 +30,9 @@
 12. Improve error annotation for HTML,CSS, and JS
 13. Built-in color picker
 14. Auto save without any error
-15. Treeview file manager [Optional]
-16. Customization of profile
-17. Android library downloader [Dx and D8]
-18. Tab layout for switching file 
-19. Sort projects
-20. Project sharing outside the app
+15. Customization of profile
+16. Android library downloader [Dx and D8]
+17. Project sharing outside the app
 ---
 
 # Contact
