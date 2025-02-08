@@ -1,7 +1,7 @@
 # Synergy IDE
 
 **Download Synergy IDE for Android:**
-- [GitHub Release](https://github.com/qwertydemii/Synergy-IDE/releases/tag/synergy)
+- [GitHub Release](https://github.com/qwertydemii/Synergy-IDE/releases/)
 
 ---
 
@@ -50,4 +50,4 @@ Telegram: [@demiixz](https://t.me/demiixz)
 Facebook: [Synergy IDE](https://www.facebook.com/share/1BUoubo9gw/)
 
 
-* [Download Synergy IDE](https://github.com/qwertydemii/Synergy-IDE/releases/download/synergy/Synergy.IDE_1.0.BETA_SNAPSHOT.apk)
+* [Download Synergy IDE](https://github.com/qwertydemii/Synergy-IDE/releases/download/synergy-v.1.1/Synergy.IDE_1.1.BETA_SNAPSHOT.apk)
