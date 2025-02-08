@@ -18,6 +18,7 @@
 - [x] Sort projects (Name, Time)
 
 **To be Accomplished**:
+
 3. Create APK
 4. Finish the profile activity
 5. Implement changelog activity
