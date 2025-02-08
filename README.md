@@ -16,8 +16,9 @@
 - [x] Tree view file management 
 - [x] Tab layout for switching file
 - [x] Sort projects (Name, Time)
+- [x] Error annotations for HTML, CSS, and JS
 
-**To be Accomplished**:
+*To be Accomplished*:
 
 3. Create APK
 4. Finish the profile activity
@@ -28,12 +29,12 @@
 9. XML Viewer
 10. AI [Deepseek] inside the application 
 11. Built-in in web browser for searching
-12. Improve error annotation for HTML,CSS, and JS
 13. Built-in color picker
 14. Auto save without any error
 15. Customization of profile
 16. Android library downloader [Dx and D8]
 17. Project sharing outside the app
+
 ---
 
 # Contact
